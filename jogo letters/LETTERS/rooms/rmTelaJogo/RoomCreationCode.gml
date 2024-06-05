@@ -1,0 +1,1 @@
+ global.selecionado = noone;
